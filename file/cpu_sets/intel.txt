@@ -1,1 +1,16 @@
-1
+Intel Atom Z200 系列
+Intel Atom Z210 系列
+Intel Atom Z2460 (Medfield)
+Intel Atom Z2480
+Intel Atom Z2580 (Clover Trail+)
+Intel Atom Z2760 (Clover Trail)
+Intel Atom Z2520 / Z2560 / Z2580 (Clover Trail+)
+Intel Atom Z3600 / Z3700 (Moorefield)
+Intel Atom Z3735 / Z3740 / Z3770 (Bay Trail)
+Intel Atom Z3795 / Z3796 (Bay Trail)
+Intel Atom x3-C3000 (SoFIA)
+Intel Atom x3-C3200 / x3-C3230RK
+Intel Atom x5-Z8300 (Cherry Trail)
+Intel Atom x5-Z8350 / x5-Z8500
+Intel Atom x7-Z8700 / x7-Z8750
+Intel Core m3 / m5 / m7

@@ -1,1 +1,8 @@
-1
+Tegra 2
+Tegra 3
+Tegra 4
+Tegra K1
+Tegra X1
+Tegra X2
+Tegra Parker
+Tegra Orin

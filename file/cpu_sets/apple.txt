@@ -1,19 +1,29 @@
 A4
 A5
+A5X
 A6
+A6X
 A7
 A8
+A8X
 A9
-A10
-A11
-A12
-A13
-A14
-A15
-A16
-A17
-A18
+A9X
+A10 Fusion
+A10X Fusion
+A11 Bionic
+A12 Bionic
+A12X Bionic
+A12Z Bionic
+A13 Bionic
+A14 Bionic
+A15 Bionic
+A16 Bionic
+A17 Pro
 M1
+M1 Pro
+M1 Max
+M1 Ultra
 M2
-M3
-M4
+M2 Pro
+M2 Max
+M2 Ultra

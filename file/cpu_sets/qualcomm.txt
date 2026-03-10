@@ -1,1 +1,92 @@
-肖龍888
+Snapdragon 200
+Snapdragon 205
+Snapdragon 210
+Snapdragon 212
+Snapdragon 215
+Snapdragon 220
+Snapdragon 225
+Snapdragon 400
+Snapdragon 410
+Snapdragon 412
+Snapdragon 415
+Snapdragon 418
+Snapdragon 425
+Snapdragon 427
+Snapdragon 430
+Snapdragon 435
+Snapdragon 439
+Snapdragon 450
+Snapdragon 460
+Snapdragon 600
+Snapdragon 610
+Snapdragon 615
+Snapdragon 616
+Snapdragon 617
+Snapdragon 618
+Snapdragon 620
+Snapdragon 625
+Snapdragon 626
+Snapdragon 630
+Snapdragon 632
+Snapdragon 636
+Snapdragon 637
+Snapdragon 638
+Snapdragon 640
+Snapdragon 650
+Snapdragon 652
+Snapdragon 653
+Snapdragon 654
+Snapdragon 655
+Snapdragon 660
+Snapdragon 662
+Snapdragon 665
+Snapdragon 670
+Snapdragon 675
+Snapdragon 678
+Snapdragon 680
+Snapdragon 682
+Snapdragon 685
+Snapdragon 690
+Snapdragon 695
+Snapdragon 7c
+Snapdragon 7c Gen 2
+Snapdragon 710
+Snapdragon 712
+Snapdragon 720G
+Snapdragon 730
+Snapdragon 732G
+Snapdragon 734G
+Snapdragon 750G
+Snapdragon 768G
+Snapdragon 778G
+Snapdragon 780G
+Snapdragon 782G
+Snapdragon 7 Gen 1
+Snapdragon 800
+Snapdragon 801
+Snapdragon 805
+Snapdragon 808
+Snapdragon 810
+Snapdragon 820
+Snapdragon 821
+Snapdragon 825
+Snapdragon 835
+Snapdragon 845
+Snapdragon 850
+Snapdragon 855
+Snapdragon 855+
+Snapdragon 860
+Snapdragon 865
+Snapdragon 865+
+Snapdragon 870
+Snapdragon 888
+Snapdragon 888+
+Snapdragon 8 Gen 1
+Snapdragon 8+ Gen 1
+Snapdragon 8 Gen 2
+Snapdragon 8+ Gen 2
+Snapdragon 8 Gen 3
+Snapdragon 8 Elite
+Snapdragon 8 Gen 4
+Snapdragon 8 Gen 5
+Snapdragon 8 Elite Gen 5
