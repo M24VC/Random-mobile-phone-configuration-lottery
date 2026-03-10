@@ -1,1 +1,20 @@
-1000mAh
+1000 mAh
+3000 mAh
+3200 mAh
+3300 mAh
+3500 mAh
+3700 mAh
+3800 mAh
+4000 mAh
+4200 mAh
+4300 mAh
+4500 mAh
+4600 mAh
+4800 mAh
+5000 mAh
+5100 mAh
+5200 mAh
+5500 mAh
+6000 mAh
+6500 mAh
+7000 mAh

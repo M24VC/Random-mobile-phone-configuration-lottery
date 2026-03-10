@@ -8,7 +8,8 @@ let currentStepIndex = 0;
 const BRAND_MAP = {
     "華碩": "asus",
     "小米": "mi",
-    "三星": "samsung"
+    "三星": "samsung",
+    "OPPO":"oppo"
 };
 
 // 💡 CPU 品牌對應表 (處理 file/cpu_sets/xxx.txt)
